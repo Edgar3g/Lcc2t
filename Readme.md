@@ -39,6 +39,28 @@
 
 ## links
 
-    https://render.com/
+  > https://render.com/
 
-    https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+  > https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
+  > https://www.talent.io/
+  
+  > https://www.reddit.com/r/ExperiencedDevs/
+  
+  > https://dev.to/
+ 
+  > https://www.producthunt.com/
+
+  > link para a ANGOLA OPEN-SOURCE COMMUNITY (https://discord.com/invite/tuUDNdRzvz)
+  
+  Dev's AO (https://discord.gg/6MH2y5wa7u) discord
+  
+  https://www.upwork.com/
+  
+  https://www.workana.com/
+  
+  https://www.freelancer.com/
+  
+  CDA : https://chat.whatsapp.com/IX7Lw2EYysD0iH76DbIvXl
+
+
