@@ -70,3 +70,7 @@
  https://roadmap.sh/
 
  https://training.linuxfoundation.org/full-catalog/
+
+
+ideias de projecto(https://ruas-angola.openalfa.com/) 
+
