@@ -20,9 +20,13 @@
 
 ## Todo Task
 
-  > 001- Modelagem Final & Sql
-  > 001 - API
-  > 001 - Mobile App (kotlin)
+ > 001- Modelagem Final & Sql
+
+
+ > 001 - API
+
+
+ > 001 - Mobile App (kotlin)
 
 
 ## Mettings
