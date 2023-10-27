@@ -73,6 +73,8 @@
 
  https://training.linuxfoundation.org/full-catalog/
 
+ https://www.linkedin.com/company/8t080businessclub/
+
 
 ideias de projecto(https://ruas-angola.openalfa.com/) 
 
