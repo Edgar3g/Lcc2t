@@ -63,4 +63,10 @@
   
   CDA : https://chat.whatsapp.com/IX7Lw2EYysD0iH76DbIvXl
 
+  https://training.linuxfoundation.org/full-catalog/
 
+  https://www.educative.io/
+
+ https://roadmap.sh/
+
+ https://training.linuxfoundation.org/full-catalog/
